@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=FrameWorkx150
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=FrameWorkx150
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Name=FrameWorkx150
+X-KDE-PluginInfo-Author=NL-TCH
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=Apache
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults 
