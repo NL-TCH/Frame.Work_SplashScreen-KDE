@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "NL-TCH"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "Framework Splash Screen For Plasma 6 at 1.5x Speed",
+        "Id": "FrameWorkx100",
+        "License": "Apache",
+        "Name": "Framework 1.5x",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
